@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+   <class>org.igniterealtime.openfire.plugin.AuthFilterSanitizerPlugin</class>
+   <name>${project.name}</name>
+   <description>${project.description}</description>
+   <author>Guus der Kinderen</author>
+   <version>${project.version}</version>
+   <date>2023-05-08</date>
+</plugin>
