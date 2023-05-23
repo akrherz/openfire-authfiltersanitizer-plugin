@@ -8,7 +8,7 @@
     </parent>
     <groupId>org.igniterealtime.openfire.plugins</groupId>
     <artifactId>authfiltersanitizer</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>AuthFilter Sanitizer</name>
     <description>Removes entries for Openfire's authentication filter that are susceptible to abuse.</description>
 
